@@ -1,0 +1,10 @@
+export const PRELOADER_CURTAIN_DURATION = 0.95;
+export const PRELOADER_CURTAIN_EASE = "power3.inOut";
+
+export const PRELOADER_ARC_OVERHANG = 100;
+
+export const PRELOADER_NAV_ENTER_DURATION = 0.62;
+export const PRELOADER_NAV_HOLD_DURATION = 0.34;
+
+export const HERO_INTRO_OFFSET_Y = 140;
+export const HERO_INTRO_STAGGER = 0.12;
